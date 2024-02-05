@@ -8,3 +8,5 @@
     ***f(4) = 16***
 2. We can't predict the the value of f(5) = 25, as it was not stated in the function
 3. We can set it so that f(5) = 25 or f(n) = n^2
+
+Next part of the presentation by [Trostin](https://github.com/bananajoeo7/csc208/blob/main/presentations/0.4_Presentation_(45-48).md).
