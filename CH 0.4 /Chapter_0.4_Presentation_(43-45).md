@@ -14,7 +14,17 @@ What you just saw is a ***closed formula***, which are explicit formulas calcula
 
 ### Example: 
 
-![Alt text](image-1.png)
+![Alt text](image-2.png)
+
+
+### Exercises:
+
+![](image-4.png)
+
+### Solutions:
+
+![Alt text](image-5.png)
+![Alt text](image-6.png)
 
 
 ## Reference
