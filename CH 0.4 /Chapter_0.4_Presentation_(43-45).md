@@ -31,4 +31,4 @@ What you just saw is a ***closed formula***, which are explicit formulas calcula
 &nbsp;[Recuursive Function Example](https://www.youtube.com/watch?v=BRJbMm4ZJDY)
 
 
-Next part of the presentation by [Trostin](https://github.com/bananajoeo7/csc208/blob/main/presentations/0.4_Presentation_(45-48).md).
+Next part of the presentation by [Trostin](https://github.com/bananajoeo7/csc208/blob/main/presentations/Chapter_0.4/Chapter_0.4_Presentation_(45-48).md).
