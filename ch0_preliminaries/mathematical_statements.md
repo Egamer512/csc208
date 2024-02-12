@@ -29,10 +29,16 @@ The Contrapositive of an Implication, like P ⟹ Q is the implication ¬Q ⟹ ¬
 
 ### Functions 
 
+***There are 3 main ways to represent a function:***
+- Equations
+- Graphs
+- Maps
+- Tables
+
 #### You can not predict the ouput of a function, if it has not been explicitly told. For example:
 1. Imagine having a function where we know: 
 
-![Alt text](image.png)
+![!\[Alt text\](image.png)](<../CH 0.4 /image.png>)
 
 2. We can't predict the the value of f(5) = 25, as it was not stated in the function
 3. But if we state that f(n) = n^2, then it is possible to state that f(6) = 36
@@ -45,21 +51,7 @@ What you just saw is a ***closed formula***, which are explicit formulas calcula
 
 ### Example: 
 
-![Alt text](image-2.png)
+![(image-2.png)](<../CH 0.4 /image-2.png>)
 
 
-### Exercises:
-
-![](image-4.png)
-
-### Solutions:
-
-![Alt text](image-5.png)
-![Alt text](image-6.png)
-
-
-## Reference
-&nbsp;[Recuursive Function Example](https://www.youtube.com/watch?v=BRJbMm4ZJDY)
-
-
-Next part of the presentation by [Trostin](https://github.com/bananajoeo7/csc208/blob/main/presentations/Chapter_0.4/Chapter_0.4_Presentation_(45-48).md).
+**Surjections is where there is that the number of elements in the domain x is equal to the numebr of elements in the codomain f(x)**
