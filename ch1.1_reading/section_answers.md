@@ -11,13 +11,16 @@
 3. If you have 9 comedies and 7 horror movies:
         
         a. How many choices of movies do you have?
-        b. If you were feeling really bored, what are the total, unique combinations of moviesc can you watch?
+
+        b. If you were feeling really bored, what are the total, unique combinations of movies can you watch?
 
 
 5. 
 
         a. If B included the elements of A, then there will be 10 common elements between the 2.
+
         b. Both sets A and B may not have any elements that are the same, so the smallest value would be zero.
+
         c. It is between 15 and 25. This is because if Set A and Set B had values where Set B had the values that Set A has, then the amount of distinct values betwene the 2 would be 15. If Set A and B did not have any values in common, then it would be 25. Of course, it doesn't only have csto be the extremes, so it is between 15 and 25, inclusive.
 
 
