@@ -20,3 +20,11 @@
         b. Both sets A and B may not have any elements that are the same, so the smallest value would be zero.
         c. It is between 15 and 25. This is because if Set A and Set B had values where Set B had the values that Set A has, then the amount of distinct values betwene the 2 would be 15. If Set A and B did not have any values in common, then it would be 25. Of course, it doesn't only have csto be the extremes, so it is between 15 and 25, inclusive.
 
+
+6. Remember this equation
+
+$$|A \cup B| = |A| + |B| - |A\cap B|$$
+
+What the prior does is that it simplifies the equation as the two intersections would cancel out. This would make the answer 13.
+
+7. 
