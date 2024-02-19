@@ -10,7 +10,7 @@
 
 3. If you have 9 comedies and 7 horror movies:
         
-        a. How many choices of movies do you have?
+        a. How many singular choices of movies do you have?
 
         b. If you were feeling really bored, what are the total, unique combinations of movies can you watch?
 
