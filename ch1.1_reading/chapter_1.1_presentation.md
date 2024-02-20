@@ -1,3 +1,18 @@
+## Question 4: hexadecimal We usually write numbers in decimal form (or base 10), meaning numbers are composed using 10 different “digits." {0, 1, ...., 9} Sometimes though it is useful to write numbers hexadecimal or base 16. Now there are 16 distinct digits that can be used to form numbers: {0, 1, ...., 9, A, B, C, D, E, F} . So for example, a 3 digit hexadecimal number might be 2B8
+
+### Part A: How many 2-digit hexadecimals are there in which the first digit is E or F? Explain your answer in terms of the additive principle (using either events or sets).
+### There are 16 ways where the first digit of the 2-digit hexidecimal is E (E.g: E1, E2, EA) and 16 ways where the first digit can be F (E.g: F1, F2, FA), so we just add these two numbers: ***32***
+
+
+### Part B: Explain why your answer to the previous part is correct in terms of the multiplicative principle (using either events or sets). Why do both the additive and multiplicative principles give you the same answer?
+
+### Remember, that there are 16 combinations for the first digit, but this time know that there is 2 different digits. So we multiple 16 and 2, and get 32.
+
+### This use of the multiplicative property is the same as the addiditive property because the steps are exactly the same!
+
+### Part C: How many 3-digit hexadecimals start with a letter (A-F) and end with a numeral (0-9)? Explain.
+### In this question, there are 6 different combinations for the first digit (A-F), 16 combinations for the second digit (0-F), and 10 combinations for the last digit (0-10). So then we just multiply: 
+$$ 6 \times 16 \times 10 = 960$$
 
 
 
