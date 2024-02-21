@@ -12,25 +12,25 @@
 
 ### Part C: How many 3-digit hexadecimals start with a letter (A-F) and end with a numeral (0-9)? Explain.
 ### In this question, there are 6 different combinations for the first digit (A-F), 16 combinations for the second digit (0-F), and 10 combinations for the last digit (0-10). So then we just multiply: 
-## $$ 6 \times 16 \times 10 = 960$$
+$$ 6 \times 16 \times 10 = 960$$
 
 ### Part D: How many 3-digit hexadecimals start with a letter (A-F) or end with a numeral (0-9) (or both)? Explain.
 
 ### To solve this equation behin with the combinations that the first digit has, which is 6 (the letters) and multiply that with the rest of teh combinations:
 
-# $$6 \times 16 \times 16  = 1536$$
+$$6 \times 16 \times 16  = 1536$$
 
 ### Do the same process but for the last digit:
 
-## $$16 \times 16 \times 10 = 2560$$
+ $$16 \times 16 \times 10 = 2560$$
 
 ### The issue is that now there is some overlap, and to remove that just remember to remove that overlap by:
 
-## $$10 \times 16 \times 6 = 960$$
+$$10 \times 16 \times 6 = 960$$
 
 ### Finally, we add the 1536 and 2560, but then subtract the overlap of 960:
 
-## $$1536 + 2560 - 960 = 3136$$
+$$1536 + 2560 - 960 = 3136$$
 
 
 
@@ -42,24 +42,24 @@
 
 ### Remember the property:
 
-### $$|A \cup B \cup C| = |A| + |B| + |C| - |A\cap B| - |A\cap C| - |B\cap C| + |A\cap B\cap C|$$
+$$|A \cup B \cup C| = |A| + |B| + |C| - |A\cap B| - |A\cap C| - |B\cap C| + |A\cap B\cap C|$$
 
 
 ### 1. Find the floor multiples of 3, 5, 7:
-## $$ 999 \div 3 = 333$$
-## $$ 999 \div 5 = 199$$
-## $$ 999 \div 7 = 142$$
+$$ 999 \div 3 = 333$$
+$$ 999 \div 5 = 199$$
+$$ 999 \div 7 = 142$$
 
 ### 2. Find the floor mulltiples of the pairs:
-## $$ 999 \div (3 \times 5) = 66$$
-## $$ 999 \div (3 \times 7) = 47$$
-## $$ 999 \div (5 \times 7 ) = 28$$
+ $$ 999 \div (3 \times 5) = 66$$
+ $$ 999 \div (3 \times 7) = 47$$
+ $$ 999 \div (5 \times 7 ) = 28$$
 
 ### 3. Find the floor multiples of all the numbers:
-## $$ 999 \div (3 \times 5 \times 7) = 9$$
+ $$ 999 \div (3 \times 5 \times 7) = 9$$
 
-### So we just put it back in the formula!
+ So we just put it back in the formula!
 
-## $$ 333 + 199 + 142 - 66 - 47 - 28 + 9 = 542$$
+$$ 333 + 199 + 142 - 66 - 47 - 28 + 9 = 542$$
 
 ## Thus the number of positive integers less than 1000 that are multiple of 3, 5, and 7 is: 542
