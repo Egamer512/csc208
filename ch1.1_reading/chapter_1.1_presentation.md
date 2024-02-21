@@ -18,7 +18,7 @@
 
 ### To solve this equation behin with the combinations that the first digit has, which is 6 (the letters) and multiply that with the rest of teh combinations:
 
-## $$6 \times 16 \times 16  = 1536$$
+# $$6 \times 16 \times 16  = 1536$$
 
 ### Do the same process but for the last digit:
 
