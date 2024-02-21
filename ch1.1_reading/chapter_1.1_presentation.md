@@ -45,7 +45,7 @@ $$1536 + 2560 - 960 = 3136$$
 $$|A \cup B \cup C| = |A| + |B| + |C| - |A\cap B| - |A\cap C| - |B\cap C| + |A\cap B\cap C|$$
 
 
-### 1. Find the floor multiples of 3, 5, 7:
+## 1. Find the floor multiples of 3, 5, 7:
 $$ 999 \div 3 = 333$$
 $$ 999 \div 5 = 199$$
 $$ 999 \div 7 = 142$$
