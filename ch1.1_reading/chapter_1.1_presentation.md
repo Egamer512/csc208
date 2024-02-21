@@ -14,6 +14,25 @@
 ### In this question, there are 6 different combinations for the first digit (A-F), 16 combinations for the second digit (0-F), and 10 combinations for the last digit (0-10). So then we just multiply: 
 $$ 6 \times 16 \times 10 = 960$$
 
+### Part D: How many 3-digit hexadecimals start with a letter (A-F) or end with a numeral (0-9) (or both)? Explain.
+
+### To solve this equation behin with the combinations that the first digit has, which is 6 (the letters) and multiply that with the rest of teh combinations:
+
+$$6 \times 16 \times 16  = 1536$$
+
+### Do the same process but for the last digit:
+
+$$16 \times 16 \times 10 = 2560$$
+
+### The issue is that now there is some overlap, and to remove that just remember to remove that overlap by:
+
+$$10 \times 16 \times 6 = 960$$
+
+### Finally, we add the 1536 and 2560, but then subtract the overlap of 960:
+
+## $$1536 + 2560 - 960 = 3136$$
+
+
 
 
 ## Question 10: How many positive integers less than 1000 are multiples of 3, 5, or 7? Explain your answer using the Principle of Inclusion/Exclusion.
