@@ -35,3 +35,9 @@ C. We have to do the inclusion/exclusion principle: $|A \cup B| = |A| + |B| - |A
 
 D. So we know that that from part B it is 20 from doing the binomial coefficient. We do the same process to the bit string that end with 11, so it would be $(^7_3) = 35$. Again with the principle of exclusion/exclusion we have found our |A| and |B|. Since we need both 11 and 101, that means that there is only one spot for that additional weight of 1, so we do $(^4_1) = 4$. We then do $20 + 35 - 4 = 51$!
 
+### 6. How many 10-but strings contain 6 or more 1's.
+
+A. This is smilar to question 3 part d. We know that there is a length of 10, and since we need the cardinality of 6 - 10, we have to add these binomial coefficients up: $(^10_6) + (^10_7) + (^10_8) + (^10_8) + (^10_9) + (^10_10) = 386$
+
+### 8. Q
+
