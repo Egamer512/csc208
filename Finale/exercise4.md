@@ -17,10 +17,20 @@
 
 ![Alt text](image-2.png)
 
-### The n! on the numerator meants the factorial of the total number of objects or 7!. The denominator would be the product of the 2 objects factorials or 4! * 3!. By doing the equation we get:
+### The $n!$ on the numerator meants the factorial of the total number of objects or $7!$ The denominator would be the product of the 2 objects factorials or $4! \cdot 3!$ By doing the equation we get:
 
-### C. How do you know you are correct? Try counting in a different way. Look at smaller family sizes and get a sequence.
+### $$ 7! \over 3! \cdot 4! $$ $$ = 35$$ 
 
-### D. Can you give a recurrence relation that fits the problem?
+### B. Look at smaller family sizes and get a sequence.
+
+### This questions wants us to look at smaller family sizes! We'll do something similar to question 1 but we will trace all the possible combination of family sizes, and see if a pattern emerges. 
+
+### C. Can you give a recurrence relation that fits the problem?
+
+### Wait a minute! That looks like a sequence we have seen before! The Fibonacci Sequence!
+
+### $$ a_n = a_{n-1} + a_{n-2} $$
+### $$ a_1 = 1 $$
+### $$ a_2 = 2 $$
 
 
