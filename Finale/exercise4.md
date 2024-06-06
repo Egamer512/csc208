@@ -49,7 +49,7 @@
 
 ### Family size of 5 (8 arranagements)
 
-![Alt text](image-8.png)
+![Alt text](image-9.png)
 
 
 ### Okay, that was a lot of X's and I's, and it might be hard to tell at first but we are seeing an interesting relationship when the family size increases. Let's observe a table!
