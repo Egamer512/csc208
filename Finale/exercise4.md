@@ -87,3 +87,10 @@
 ### $$ a_2 = 2 $$
 
 
+Sources: 
+
+[Source 1](https://www.youtube.com/watch?v=MSn7eZFs7HU&t=301s)
+
+[Source 2](https://www.geeksforgeeks.org/what-is-bipartite-graph/)
+
+[Source 3](https://www.techtarget.com/whatis/definition/Fibonacci-sequence#:~:text=The%20sequence%20follows%20the%20rule,adheres%20to%20the%20prescribed%20formula.)
